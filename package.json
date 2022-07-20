@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/varun9797/varun-ads",
+  "homepage": "https://github.com/varun9797/google-ads-with-bidding-partners",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/varun9797/varun-ads.git"
+    "url": "git+https://github.com/varun9797/google-ads-with-bidding-partners.git"
   },
   "dependencies": {
     "axios": "^0.27.2"
