@@ -1,15 +1,27 @@
 {
-  "name": "ads-npm",
+  "name": "google-ads-with-bidding-partners",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://github.com/varun9797/varun-ads",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varun9797/varun-ads.git"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^0.27.2"
-  }
+  "keywords": [
+    "github",
+    "repos",
+    "repositories",
+    "sort",
+    "stars"
+  ],
+  "author": "Varun Pratap Verma <verma9797@gmail.com>",
+  "license": "ISC"
 }
